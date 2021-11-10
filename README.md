@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @karanlakhwani910
-- Frontend Website Developer
+- Fullstack Web Developer
 - 📫 Reach out to me on my mail karan.lakhwani23@gmail.com or my linkedin https://www.linkedin.com/in/karan-lakhwani
